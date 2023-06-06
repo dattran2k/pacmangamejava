@@ -1,4 +1,2 @@
-Game Pacman làm bằng java
-
-Bổ sung thêm chức năng tạo map đơn giản 
-Sau khi tạo map thì vào lớp DoFile set lại map
+Pacman game by java with A* Algorithm 
+I did this when I was Sophomore, so it's not very good .
